@@ -1,0 +1,27 @@
+#dependencies
+node_modules/
+
+# ignore log files
+*.logs
+logs/
+
+# ignore upload folder
+tmp/
+
+# ignore  configs
+firebase/
+config/
+migrations/
+
+#secret
+.env
+
+# ignore  vscode
+.vscode/
+
+# ignore  idea
+.idea
+
+# ignore  idea
+.eslint.config.mjs
+
